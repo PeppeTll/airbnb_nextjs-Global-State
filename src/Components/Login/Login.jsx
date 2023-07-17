@@ -3,7 +3,6 @@ import styles from "./index.module.scss";
 import { useRouter } from "next/router";
 
 //mocks
-import userData from "../../mocks/userData.json";
 import { users } from "../Layout/Layout";
 
 const Login = () => {
