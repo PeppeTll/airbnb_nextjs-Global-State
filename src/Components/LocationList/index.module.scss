@@ -1,0 +1,15 @@
+.LocationList {
+  width: 70%;
+  margin: 0 auto;
+
+  &__h1 {
+    padding: 15px;
+  }
+
+  &__wrapList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
